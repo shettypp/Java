@@ -1,3 +1,4 @@
+// Finding whether the number given by the user is odd or even
 import java.util.Scanner;
 public class Odd_even {
     public static void main(String[] args) {
