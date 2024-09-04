@@ -10,7 +10,7 @@ class Bank_acc{
     }
 }
 
-public class Main {
+public class Bank_Acc {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        Bank_acc o=new Bank_acc();
