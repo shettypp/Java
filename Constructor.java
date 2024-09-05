@@ -25,7 +25,7 @@ class Student{
         System.out.println("Name : " +name + ",  Roll Number : " + roll_no + ",  Total Marks : " + total_marks );
     }
 }
-public class Main {
+public class Constructor{
     public static void main(String[] args) {
         Student s1 = new Student();
         Student s2 = new Student(2,"Abc",20,17,16);
