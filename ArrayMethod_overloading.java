@@ -26,7 +26,7 @@ class Area{
         System.out.println("Area of triangle is : "+ area);
     }
 }
-public class Main {
+public class ArrayMethod_overloading {
     public static void main(String[] args) {
         Area A1 = new Area();
         Area A2 = new Area();
