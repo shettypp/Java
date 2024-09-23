@@ -24,7 +24,7 @@ class Advanced_cal extends Calculator{
     }
 }
 
-public class Main {
+public class Calculator_inheritance {
     public static void main(String[] args) {
         Calculator c1=new Calculator();
         Advanced_cal c2=new Advanced_cal();
