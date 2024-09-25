@@ -48,7 +48,7 @@ class CurrentAccount extends Bank{
         }
     }
 }
-public class Main {
+public class BankInheritance {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter type of account (saving or current) : ");
