@@ -17,7 +17,7 @@ class Spl_employee extends Employee{
     }
 }
 
-public class Main {
+public class Employee_inheritance {
     public static void main(String[] args) {
         Spl_employee e1=new Spl_employee();
         Employee e2=new Employee();
