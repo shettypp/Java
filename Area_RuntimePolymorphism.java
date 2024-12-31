@@ -35,7 +35,7 @@ class Circle_area extends Area{
         System.out.println("Area of circle is : "+ area);
     }
 }
-public class Main {
+public class Area_RuntimePolymorphism {
     public static void main(String[] args) {
         Area r=new Rectangle_area();
         r.display(); // overriding
