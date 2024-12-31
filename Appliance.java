@@ -19,7 +19,7 @@ class Light extends Appliance{
         System.out.println("Power consumption is 15 watts");
     }
 }
-public class Main {
+public class Appliance {
     public static void main(String[] args) {
        Fan f1=new Fan();
        Light l1=new Light();
