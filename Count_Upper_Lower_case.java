@@ -30,7 +30,7 @@ public class Main {
 
 import java.util.Scanner;
 
-public class Main {
+public class Count_Upper_Lower_case {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter string : ");
