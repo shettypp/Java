@@ -62,7 +62,7 @@ class two_wheeler extends Vehicle{
         Cal_mileage();
     }
 }
-public class Main {
+public class Hierartial_inheritance {
     public static void main(String[] args) {
         System.out.println("For Two wheeler  ");
         two_wheeler w1=new two_wheeler();
